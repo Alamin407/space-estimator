@@ -1,0 +1,14 @@
+.se-admin-wrap{
+    width: 350px;
+}
+.se-coppied{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    border-radius: 4px;
+}
+.text-bold{
+    font-weight: 500;
+    font-style: italic;
+}
