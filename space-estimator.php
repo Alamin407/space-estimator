@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Space Estimator
- * Plugin URI:  https://alaminislam.info/space-estimator
+ * Plugin URI:  https://wpthinkers.com/
  * Description: A simple plugin to estimate space requirements for various items.
  * Version:     1.0.2
  * Author:      Md Al Amin Islam
